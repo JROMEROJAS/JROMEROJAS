@@ -20,7 +20,7 @@
 -----
 ## 📌 Repositorios Destacados
 🔹 **Aprendizaje y práctica** 
- - [🌐 HTML & CSS] (https://github.com/JROMEROJAS/mi-proyecto-html-css) → Ejercicios y Prácticas de Frontend.
+ - [🌐 HTML & CSS] (https://github.com/JROMEROJAS/HTML--CSS--Learning) → Ejercicios y Prácticas de Frontend.
  - [🛢️ Bases de Datos] (https://github.com/JROMEROJAS/SQL--DataBase--Learning) → Ejercicios y Prácticas con Bases de Datos.
  - [☕ Spring Boot] (https://github.com/JROMEROJAS/Spring--Boot--Learning-) → Ejercicios y Prácticas con Backend utilizando Spring Boot. 
 
