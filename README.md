@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align = "center"> 👋 Hola, soy Juan Jose Romero Rojas </h1>
 <h3 align = "center"> <b>JROMEROJAS</b> </h3>
 
