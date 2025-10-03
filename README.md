@@ -3,7 +3,7 @@
 <h3 align = "center"> <b>JROMEROJAS</b> </h3>
 
 <p align = "center">
-  <img src = "https://img.shields.io/badge/Ingeniería%20de%20Sistemas-Student-blue?style=for-the-badge"/>
+  <img src = "https://img.shields.io/badge/Tecnología%20en%20Desarrollo%20de%20Software-Student-blue?style=for-the-badge"/>
   <img src = "https://img.shields.io/badge/Backend-Java%20|%20SpringBoot-green?style=for-the-badge"/>
   <img src = "[https://img.shields.io/badge/Backend-Java%20|%20SpringBoot-green?style=for-the-badge](https://img.shields.io/badge/Frontend-HTML%20|%20CSS%20|%20JS-orange?style=for-the-badge)"/>
   <img src = "[[https://img.shields.io/badge/Backend-Java%20|%20SpringBoot-green?style=for-the-badge](https://img.shields.io/badge/Databases-SQL-lightgrey?style=for-the-badge)](https://img.shields.io/badge/Databases-SQL-lightgrey?style=for-the-badge)"/>
@@ -12,7 +12,7 @@
 -----
 
 ## 🚀 Sobre mí
-🎓 Soy estudiante de **Tecnologia en Desarrollo de Software** con pasion por el **Desarrollo Backend y Frontend** y en la construccion de soluciones tecnológicas.
+🎓 Soy estudiante de **Tecnología en Desarrollo de Software** con pasion por el **Desarrollo Backend y Frontend** y en la construccion de soluciones tecnológicas.
 📚 Actualmente aprendiendo:
 - **Spring Boot** → Web, Data, Security, Testing.
 - **Bases de Datos** → DDL, DML, DQL, TCL, DCL.
