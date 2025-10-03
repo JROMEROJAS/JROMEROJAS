@@ -1,4 +1,4 @@
-<h1 align = "center"> 👋 Hola, soy Juan Jose Romero Rojas </h1>
+<h1 align = "center"> 👋 Hola, soy Juan José Romero Rojas </h1>
 <h3 align = "center"> <b>JROMEROJAS</b> </h3>
 
 <p align = "center">
