@@ -39,7 +39,7 @@
 
 -----
 ## ⚡ Objetivo
-Construir un portafolio sólido en GitHub que refleje mi aprendizaje, proyectos y crecimiento como **Tecnologo en Desarrollo de Softwar** 🚀.
+Construir un portafolio sólido en GitHub que refleje mi aprendizaje, proyectos y crecimiento como **Tecnologo en Desarrollo de Software** 🚀.
 
 <p align = "center">
   <img src = "https://img.shields.io/badge/Open%20to%20collaboration-Yes-brightgreen?style=for-the-badge" />
