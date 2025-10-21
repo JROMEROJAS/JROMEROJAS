@@ -22,7 +22,8 @@
 🔹 **Aprendizaje y práctica** 
  - 🌐 HTML & CSS (https://github.com/JROMEROJAS/HTML--CSS--Learning) → Ejercicios y Prácticas de Frontend.
  - 🛢️ Bases de Datos (https://github.com/JROMEROJAS/SQL--DataBase--Learning) → Ejercicios y Prácticas con Bases de Datos.
- - ☕ Spring Boot (https://github.com/JROMEROJAS/Spring--Boot--Learning-) → Ejercicios y Prácticas con Backend utilizando Spring Boot. 
+ - ☕ Spring Boot (https://github.com/JROMEROJAS/Spring--Boot--Learning-) → Ejercicios y Prácticas con Backend utilizando Spring Boot.
+ - 📄 Actividad de CRUD (https://github.com/JROMEROJAS/CRUD-HERRAMIENTA-ANGULAR-SPRINGBOOT) → Ejercicio completo utilizando CRUD para la gestion de un catalogo de herramientas, haciendo uso de Spring Web, Spring Data, MySQL.
 
 
 🔹 **Proyectos universitarios** 
