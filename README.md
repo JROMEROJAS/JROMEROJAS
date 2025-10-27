@@ -28,7 +28,7 @@
 
 🔹 **Proyectos universitarios** 
  - [🧼 EasyWash](https://github.com/JROMEROJAS/easywash_pa) → Proyecto de aula para gestión de lavandero de autos.
- - [⚙️ Backend](https://github.com/JROMEROJAS/Backend) → Proyecto universitario en Proceso (backend).
+ - [⚙️ Backend](https://github.com/JROMEROJAS/Backend-DistributorStore/tree/main) → Proyecto universitario en Proceso (backend).
 
 
 -----
