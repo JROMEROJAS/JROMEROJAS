@@ -99,6 +99,15 @@ Construir un portafolio sólido en GitHub que refleje mi aprendizaje, proyectos 
 ### **Próximos Pasos**
 Poder implementar y dominar todo lo aprendido, aprender tecnologias nuevas, desarrllar proyectos utilizando los conocimientos adquiridos y contribuir a proyectos open source.
 
+-----
+
+## Conecta Conmigo
+<p align="center"> 
+  <a href="mailto:jacobromerojas@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <img src="https://img.shields.io/badge/📍_Cartagena,_Colombia-00A98F?style=for-the-badge"/> 
+</p>
+
 
 
 
