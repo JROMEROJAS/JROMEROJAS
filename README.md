@@ -97,7 +97,7 @@ Sistema de gestión de aulas con funcionalidades CRUD completas.
 Construir un portafolio sólido en GitHub que refleje mi aprendizaje, proyectos y crecimiento como **Tecnologo en Desarrollo de Software**.
 
 ### **Próximos Pasos**
-Poder implementar y dominar todo lo aprendido, aprender tecnologias nuevas, desarrllar proyectos utilizando los conocimientos adquiridos y contribuir a proyectos open source.
+Poder implementar y dominar todo lo aprendido, aprender tecnologias nuevas, desarrollar proyectos utilizando los conocimientos adquiridos y contribuir a proyectos open source.
 
 -----
 
