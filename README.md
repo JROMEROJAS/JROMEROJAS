@@ -1,4 +1,4 @@
-<h1 align = "center"> 👋 Hola, soy Juan José Romero Rojas </h1>
+<h1 align = "center">  Hola, soy Juan José Romero Rojas </h1>
 <h3 align = "center"> <b>JROMEROJAS</b> </h3>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 -----
 
-## 📖 Sobre mí
+##  Sobre mí
 Soy un apasionado estudiante de **Tecnología en Desarrollo de Software** con un enfoque especial en el desarrollo **Backend con Java y Spring Boot**, y en constante crecimiento en el área **Frontend**. Me encanta construir soluciones tecnológicas que resuelvan problemas reales.
 
 
-### 🎯 Actualmente aprendiendo
+###  Actualmente aprendiendo
 
 - **Spring Boot** → Web, Data JPA, Security, Testing.
 - **Bases de Datos** → DDL, DML, DQL, TCL, DCL.
@@ -23,9 +23,9 @@ Soy un apasionado estudiante de **Tecnología en Desarrollo de Software** con un
 - **Arquitectura de Software** → Patrones de diseño, Clean Code
 
 -----
-## 📌 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🎓 Proyectos Académicos
+###  Proyectos Académicos
 
 #### **EasyWash - Sistema de Gestión de Lavadero** 
 [![Repositorio](https://img.shields.io/badge/🔗_Repositorio-181717?style=flat-square&logo=github)](https://github.com/JROMEROJAS/easywash_pa)
@@ -40,7 +40,7 @@ Plataforma de e-commerce en desarrollo con arquitectura separada frontend/backen
 
 **Tecnologías:** `Spring Boot` `MySQL` `Angular` `TypeScript` `HTML` `CSS`
 
-### 📚 Proyectos de Aprendizaje
+###  Proyectos de Aprendizaje
 
 #### **CRUD Completo - Gestión de Herramientas** 
 [![Repositorio](https://img.shields.io/badge/🔗_Repositorio-181717?style=flat-square&logo=github)](https://github.com/JROMEROJAS/CRUD-HERRAMIENTA-ANGULAR-SPRINGBOOT)
@@ -54,7 +54,7 @@ Sistema de gestión de aulas con funcionalidades CRUD completas.
 
 **Tecnologías:** `Spring Boot` `MySQL` `Angular` `TypeScript` `HTML` `CSS`
 
-### 🎯 Repositorios de Práctica
+###  Repositorios de Práctica
 
 - [**HTML & CSS Learning**](https://github.com/JROMEROJAS/HTML--CSS--Learning) - Fundamentos de desarrollo frontend
 - [**SQL Database Learning**](https://github.com/JROMEROJAS/SQL--DataBase--Learning) - Prácticas con bases de datos
@@ -83,7 +83,7 @@ Sistema de gestión de aulas con funcionalidades CRUD completas.
 
 -----
 
-## 💼 Métricas Técnicas
+##  Métricas Técnicas
 
 <div align="center">
 
