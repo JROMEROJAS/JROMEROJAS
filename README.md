@@ -82,11 +82,32 @@ Sistema de gestión de aulas con funcionalidades CRUD completas.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 -----
-## 📊 Estadisticas
+
+## 💼 Métricas Técnicas
+
+<div align="center">
+
+### **Actividad de Desarrollo**
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JROMEROJAS&theme=github_dark)
+
+### **Repositorios por Lenguaje**
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JROMEROJAS&theme=github_dark&exclude=JROMEROJAS/JROMEROJAS)
+
+### **Lenguajes más Usados**
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JROMEROJAS&theme=github_dark)
+
+### **Contribuciones por Hora**
+![Commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JROMEROJAS&theme=github_dark&utcOffset=-5)
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JROMEROJAS&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JROMEROJAS&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <a href="https://github.com/JROMEROJAS">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JROMEROJAS&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 -----
