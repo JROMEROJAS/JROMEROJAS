@@ -2,7 +2,7 @@
 <h3 align = "center"> <b>JROMEROJAS</b> </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tecnología%20en%20Desarrollo%20de%20Software-4to%20Semestre-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tecnología%20en%20Desarrollo%20de%20Software-5to%20Semestre-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-green?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20TypeScript-red?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -104,10 +104,6 @@ Sistema de gestión de aulas con funcionalidades CRUD completas.
 <p align="center">
   <a href="https://github.com/JROMEROJAS">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JROMEROJAS&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 -----
