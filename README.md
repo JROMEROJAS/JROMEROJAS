@@ -17,6 +17,7 @@ Soy un apasionado estudiante de **Tecnología en Desarrollo de Software** con un
 
 ###  Actualmente aprendiendo
 
+- **JavaScript** → Retomando bases sólidas y asincronismo.
 - **Spring Boot** → Web, Data JPA, Security, Testing.
 - **Bases de Datos** → DDL, DML, DQL, TCL, DCL.
 - **Frontend Development** → TypeScript, HTML, CSS, JAVASCRIPT.
@@ -59,6 +60,7 @@ Sistema de gestión de aulas con funcionalidades CRUD completas.
 - [**HTML & CSS Learning**](https://github.com/JROMEROJAS/HTML--CSS--Learning) - Fundamentos de desarrollo frontend
 - [**SQL Database Learning**](https://github.com/JROMEROJAS/SQL--DataBase--Learning) - Prácticas con bases de datos
 - [**Spring Boot Learning**](https://github.com/JROMEROJAS/Spring--Boot--Learning-) - Backend con Spring Boot
+- [**JavaScript Learning**](https://github.com/JROMEROJAS/JavaScript-Learning) - Practicas usando esta tecnologia
 
 -----
 
