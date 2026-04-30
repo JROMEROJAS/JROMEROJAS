@@ -1,5 +1,10 @@
 <h1 align = "center">  Hola, soy Juan José Romero Rojas </h1>
-<h3 align = "center"> <b>JROMEROJAS</b> </h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JROMEROJAS&theme=neon-palenight" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tecnología%20en%20Desarrollo%20de%20Software-5to%20Semestre-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
