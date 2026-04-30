@@ -25,10 +25,11 @@ Soy un apasionado estudiante de **Tecnología en Desarrollo de Software** con un
 
 ###  Proyectos Destacados
 
+<div align="center">
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4> Proyectos de Aula</h4>
+      <h4>🏢 Proyectos de Aula</h4>
       <ul>
         <li>
           <strong>Distributor Store</strong> <br />
@@ -43,7 +44,7 @@ Soy un apasionado estudiante de **Tecnología en Desarrollo de Software** con un
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4> Aprendizaje y Práctica</h4>
+      <h4>🧪 Aprendizaje y Práctica</h4>
       <ul>
         <li>
           <strong>CRUD Herramientas</strong> <br />
@@ -59,6 +60,7 @@ Soy un apasionado estudiante de **Tecnología en Desarrollo de Software** con un
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
